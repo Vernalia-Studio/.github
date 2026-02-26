@@ -1,46 +1,39 @@
-# VERNALIA // PHANTOM_ENGINE
+# 🏛️ VERNALIA // THE REGISTRY
+### [STATUS: OPERATIONAL] // [ACCESS: PUBLIC_VIVISECTION]
 
-### *The Technical Architecture of Mischief.*
+Vernalia is a boutique creative technology studio specializing in **High-Fidelity Digital Rituals** and **Fossilized Infrastructure**. We build the specialized architecture that sits between a website and an experience. 
 
-`[STATUS: OPERATIONAL]`
-`[CLEARANCE: PUBLIC_ACCESS]`
-
-Vernalia is a boutique creative technology studio specializing in **High-Fidelity Digital Rituals**. We build the infrastructure that sits between a website and an experience. Our proprietary **Phantom Engine** powers deep fan engagement through friction, mystery, and real-time telemetry.
+Through the **Vitrification Protocol**, we transform ephemeral web interactions into permanent digital artifacts—optimized for speed, hardened against decay, and designed for Mischief.
 
 ---
 
-## THE CORE PHILOSOPHY
+### THE ARCHITECTURAL PHILOSOPHY
+We believe the modern web has become too frictionless. We build **Gates** that require intention to pass.
 
-We believe that the modern web is too frictionless. We build Gates that require intention to pass.
-
-* **The Ritual:** Every interaction is a performance.
-* **The Engine:** A serverless, edge-optimized framework designed for sudden, massive traffic spikes.
-* **The Intelligence:** Real-time observability that turns user interaction into actionable data.
-
----
-
-## CAPABILITIES
-
-Our internal stack is built for speed, stability, and Mischief.
-
-* **Experimental UX:** Custom-built Morse-code entry, GLSL shaders, and cryptographic gates.
-* **Edge Infrastructure:** Global deployment via the Netlify Edge network.
-* **Live Telemetry:** A private Command Center for real-time ritual observation.
-* **Secure Archiving:** Every project is cryptographically logged for technical audit and historical record.
+* **The Ritual:** Every interaction is a performance. We measure the Friction Index to ensure the challenge is perfectly tuned.
+* **The Fossil:** We do not build sites. We build self-contained, serverless archives designed to survive the erosion of the open web.
+* **The Intelligence:** Real-time observability via the **Nerve Center**, turning user struggle into actionable telemetry.
 
 ---
 
-## REPOSITORY DIRECTORY
+### CAPABILITIES // THE CORE STACK
+Our internal logic is built for surgical precision and high-physics sequences.
 
-* **`core-architecture`**: The private codebase of the Phantom Engine.
-* **`ritual-builds`**: Bespoke project deployments for artists and labels.
-* **`glitch-libraries`**: Proprietary visual effects and shader modules.
+* **Surgical Dispatching:** Modular JS specimens initialized with zero-overhead.
+* **Vitrification Engine:** Automated asset optimization (WebP/WebM) with frame-accurate synchronization.
+* **Edge Hardening:** Global deployment via the Netlify Edge network for sub-0.8s FCP.
+* **Cryptographic Logging:** Every build is assigned a unique Registry ID for historical audit.
 
 ---
 
-## CONNECT
+### REPOSITORY DIRECTORY
+* **[internal] core-architecture:** The private blueprints of the Vernalia Protocol.
+* **[internal] registry-archives:** Bespoke project deployments for high-profile commissions.
+* **[public] studio-standards:** Open-source CSS resets and JS utility specimens for the curious.
 
-Access to the **Nerve Center** (Discord) is by invitation only. If you have been granted a clearance role, please synchronize your ID via the Lead Engineer.
+---
 
-`[AWAITING_SIGNAL]`
-`[ROOT] @ Vernalia`
+### CONNECT
+Access to the **Nerve Center** is restricted. Synchronize your credentials via the **Lead Curator**.
+
+[AWAITING_SIGNAL] // [ROOT] @ VERNALIA-CURATOR
